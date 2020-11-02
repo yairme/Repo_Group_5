@@ -1,7 +1,7 @@
 Yair: Multiple_ending
-Amy:Nieuwkomers verhaal code Amy van Duin {kut daniel}.txt
+Amy:
 William: Verhaalnieuwkomer.py
-Robin:
+Robin: keuzeverhaal.py
 Daniel: Text-based application DNSD1Db.py
 
  ____  __.       __    ________                .__       .__   
