@@ -1,4 +1,4 @@
-#import stuff
+#import stuff 
 import random, keyboard, os
 
 #als een einde is behaald dan veranderd de waarde en eindigd de programma
