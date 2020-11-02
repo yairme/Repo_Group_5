@@ -1,5 +1,5 @@
 Yair: Multiple_ending
 Amy:
-William:
+William: Verhaalnieuwkomer.py
 Robin:
 Daniel: 
