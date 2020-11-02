@@ -2,7 +2,7 @@ Yair: Multiple_ending
 Amy:
 William: Verhaalnieuwkomer.py
 Robin:
-Daniel: 
+Daniel: Text-based application DNSD1Db.py
 
  ____  __.       __    ________                .__       .__   
 |    |/ _|__ ___/  |_  \______ \ _____    ____ |__| ____ |  |  
